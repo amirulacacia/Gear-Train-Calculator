@@ -1,0 +1,19 @@
+﻿  Application.cpp
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(267,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(298,69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(303,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1161,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1454,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1458,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1545,112): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1546,65): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1582,87): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1583,62): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1605,76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Application.cpp(1606,58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 2498 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx9.vcxproj -> D:\Amirul\Year 4 Sem 1\Power Train\Project Power Train Revision\examples\example_win32_directx9\Release\example_win32_directx9.exe
